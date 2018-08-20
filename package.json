@@ -1,0 +1,33 @@
+{
+  "name": "gotag",
+  "version": "1.0.1",
+  "description": "将dist压缩目录通过打tag的方式上线😂",
+  "bin": {
+    "gotag": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huarxia/gotag.git"
+  },
+  "keywords": [
+    "git 打tag"
+  ],
+  "author": "花夏",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huarxia/gotag/issues"
+  },
+  "homepage": "https://github.com/huarxia/gotag#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "hexo-fs": "^0.2.3",
+    "hexo-util": "^0.6.0",
+    "ora": "^1.3.0",
+    "cli-table": "^0.3.1"
+  }
+}
