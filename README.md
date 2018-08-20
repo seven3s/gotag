@@ -52,3 +52,22 @@
 
 > -t -m 是必须参数
 
+### 2. 局部安装使用命令
+
+```json
+// package.json
+"scripts": {
+    "tag": "gotag"
+}
+```
+
+
+
+当前项目根路径中
+
+
+
+```shell
+$ npm run tag -- -t xxx -m xxx
+```
+
