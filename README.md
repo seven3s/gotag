@@ -63,11 +63,7 @@
 }
 ```
 
-
-
 当前项目根路径中
-
-
 
 ```shell
 $ npm run tag -- -t xxx -m xxx
