@@ -4,7 +4,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/huarxia/gotag.svg)](https://github.com/huarxia/gotag/issues) [![GitHub forks](https://img.shields.io/github/forks/huarxia/gotag.svg)](https://github.com/huarxia/gotag/network) [![GitHub stars](https://img.shields.io/github/stars/huarxia/gotag.svg)](https://github.com/huarxia/gotag/stargazers) [![GitHub license](https://img.shields.io/github/license/huarxia/gotag.svg)](https://github.com/huarxia/gotag/blob/master/LICENSE) 
 
-### ![](./assets/img/gotag.gif)
+### ![](./assets/img/tag.gif)
 
 ### 安装使用
 
