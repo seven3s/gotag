@@ -24,9 +24,9 @@
 
 ```json
 "disTag": {
-	"type": "git",
-	"repo": "https://github.com/huarxia/blog.git",
-	"dir": "static"
+    "type": "git",
+    "repo": "https://github.com/huarxia/blog.git",
+    "dir": "static"
 }
 ```
 
