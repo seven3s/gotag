@@ -1,6 +1,6 @@
 {
   "name": "gotag",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "将dist压缩目录通过打tag的方式上线😂",
   "bin": {
     "gotag": "./index.js"
