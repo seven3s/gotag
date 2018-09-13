@@ -2,7 +2,7 @@
 
 
 
-[![GitHub issues](https://img.shields.io/github/issues/huarxia/gotag.svg)](https://github.com/huarxia/gotag/issues) [![GitHub forks](https://img.shields.io/github/forks/huarxia/gotag.svg)](https://github.com/huarxia/gotag/network) [![GitHub stars](https://img.shields.io/github/stars/huarxia/gotag.svg)](https://github.com/huarxia/gotag/stargazers) [![GitHub license](https://img.shields.io/github/license/huarxia/gotag.svg)](https://github.com/huarxia/gotag/blob/master/LICENSE) 
+[![GitHub issues](https://img.shields.io/github/issues/huarxia/gotag.svg)](https://github.com/huarxia/gotag/issues) [![GitHub forks](https://img.shields.io/github/forks/huarxia/gotag.svg)](https://github.com/huarxia/gotag/network) [![GitHub stars](https://img.shields.io/github/stars/huarxia/gotag.svg)](https://github.com/huarxia/gotag/stargazers) [![GitHub license](https://img.shields.io/github/license/huarxia/gotag.svg)](https://github.com/huarxia/gotag/blob/master/LICENSE)
 
 ### ![](./assets/img/tag.gif)
 
@@ -28,7 +28,9 @@
 "disTag": {
     "type": "git",
     "repo": "https://github.com/huarxia/blog.git",
-    "dir": "static"
+    "dir": "static",
+    "user": "huarxia",
+    "email": "huaxia@huar.love",
 }
 ```
 
@@ -68,4 +70,3 @@
 ```shell
 $ npm run tag -- -t xxx -m xxx
 ```
-
