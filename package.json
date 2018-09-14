@@ -1,6 +1,6 @@
 {
   "name": "gotag",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "将dist压缩目录通过打tag的方式上线😂",
   "bin": {
     "gotag": "./index.js"
@@ -29,5 +29,13 @@
     "hexo-util": "^0.6.0",
     "ora": "^1.3.0",
     "cli-table": "^0.3.1"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

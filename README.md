@@ -29,12 +29,16 @@
     "type": "git",
     "repo": "https://github.com/huarxia/blog.git",
     "dir": "static",
-    "user": "huarxia",
-    "email": "huaxia@huar.love",
+    "user": "huarxia", // 选填
+    "email": "huaxia@huar.love"  // 选填
 }
 ```
 
-### 2. 参数
+### 2. fix 瓦力构建系统更新不到tag
+
+必须新建一个分支，分支名起为 `disTag` 中配置的 `dir` 的`value` 值
+
+### 3. 参数
 
 - type `非必填` 只是标明是git类型
 - repo `必填`  远程git仓库
